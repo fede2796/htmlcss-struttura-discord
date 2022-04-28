@@ -70,4 +70,100 @@ li{
 
 
  /* Main */
+.first{
 
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /*TEST*/
+     height: 150px;
+}
+.columns{
+    background-color: orange;
+    height: 70%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col1{
+    border: 1px dotted black;
+    background-color: green;
+    height: 100%;
+    width: 60%;
+}
+.col2{
+    border: 1px dotted black;
+    background-color: orange;
+    height: 100%;
+    width: 40%;
+}
+.second{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /*TEST*/
+     height: 150px;
+}
+.col1-2{
+    border: 1px dotted black;
+    background-color: orange;
+    height: 100%;
+    width: 40%;
+}
+
+.col2-2{
+    border: 1px dotted black;
+    background-color: green;
+    height: 100%;
+    width: 60%;
+}
+.third{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /*TEST*/
+     height: 150px;
+
+}
+.bigsquare{
+    background-color: orange;
+    height: 70%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dotted black;
+}
+.four{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /*TEST*/
+     height: 150px;
+}
+.first-column{
+    border: 1px dotted black;
+    background-color: orange;
+    height: 100%;
+    width: 40%;
+}
+.second-column{
+    border: 1px dotted black;
+    background-color: green;
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col4{
+    border: 1px dotted white;
+    
+    height: 100%;
+    width: 25%;
+}
