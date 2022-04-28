@@ -72,16 +72,16 @@ li{
  /* Main */
 .first{
 
-    background-color: red;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
      /*TEST*/
-     height: 150px;
+     height: 300px;
 }
 .columns{
     background-color: orange;
-    height: 70%;
+    height: 80%;
     width: 60%;
     display: flex;
     justify-content: center;
@@ -89,49 +89,49 @@ li{
 }
 .col1{
     border: 1px dotted black;
-    background-color: green;
+    background-color: #1e90ff ;
     height: 100%;
     width: 60%;
 }
 .col2{
     border: 1px dotted black;
-    background-color: orange;
+    background-color: #ffc0cb;
     height: 100%;
     width: 40%;
 }
 .second{
-    background-color: grey;
+    background-color: #d3d3d3;
     display: flex;
     justify-content: center;
     align-items: center;
      /*TEST*/
-     height: 150px;
+     height: 300px;
 }
 .col1-2{
     border: 1px dotted black;
-    background-color: orange;
+    background-color: #ffc0cb;
     height: 100%;
     width: 40%;
 }
 
 .col2-2{
     border: 1px dotted black;
-    background-color: green;
+    background-color: #1e90ff;
     height: 100%;
     width: 60%;
 }
 .third{
-    background-color: grey;
+    background-color:#d3d3d3;
     display: flex;
     justify-content: center;
     align-items: center;
      /*TEST*/
-     height: 150px;
+     height: 500px;
 
 }
 .bigsquare{
-    background-color: orange;
-    height: 70%;
+    background-color: #228b22;
+    height: 80%;
     width: 60%;
     display: flex;
     justify-content: center;
@@ -144,7 +144,7 @@ li{
     justify-content: center;
     align-items: center;
      /*TEST*/
-     height: 150px;
+     height: 300px;
 }
 .first-column{
     border: 1px dotted black;
