@@ -139,7 +139,7 @@ li{
     border: 1px dotted black;
 }
 .four{
-    background-color: black;
+    background-color:#23272a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -148,13 +148,13 @@ li{
 }
 .first-column{
     border: 1px dotted black;
-    background-color: orange;
+    background-color: #f08080;
     height: 100%;
     width: 40%;
 }
 .second-column{
     border: 1px dotted black;
-    background-color: green;
+    background-color: #20b2aa;
     height: 100%;
     width: 60%;
     display: flex;
@@ -173,13 +173,13 @@ hr{
 
 /*FOOTER*/
 footer{
-    background-color: greenyellow;
+    background-color: #23272a;
     padding-top: 30px;
      /* TEST */
      height: 80px;
 }
 .footer-head{
-    background-color: #daa520;
+    background-color: #7fffd4;
     width: 60%;
     margin: auto;
     display: flex;
