@@ -56,7 +56,17 @@ li{
     height: 257px;
     margin-top: 10px;
     margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  }
+
+.square{
+    width: 50%;
+    height: 75%;
+    background-color: #ee82ee;
+    border: 1px dotted black;
+}
 
 
  /* Main */
