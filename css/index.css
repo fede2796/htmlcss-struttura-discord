@@ -4,11 +4,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Whitney', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
+}
 header{
 
     background-color: #add8e6;
-   padding-top: 10px;
+    padding-top: 10px;
     /* TEST */
     height: 300px;
 }
@@ -176,7 +179,7 @@ footer{
     background-color: #23272a;
     padding-top: 30px;
      /* TEST */
-     height: 80px;
+     height: 535px;
 }
 .footer-head{
     background-color: #7fffd4;
